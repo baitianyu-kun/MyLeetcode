@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -34,15 +34,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ab25126-9ad9-4649-880a-bbd78b5eb588" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/List/ListTest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/1047.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/20.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/225.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack/232.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9ab25126-9ad9-4649-880a-bbd78b5eb588" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,9 +55,9 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2f8CPPH2tXonGRvPwbG1sIFImGY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +79,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MyLeetcode",
+    "last_opened_file_path": "/Users/baitianyu/CLionProjects/MyLeetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,11 +95,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.1047">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="1047" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcode" TARGET_NAME="1047" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="1047">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -185,12 +172,12 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.1047" />
-      <item itemvalue="CMake Application.20" />
       <item itemvalue="CMake Application.203" />
       <item itemvalue="CMake Application.203_2" />
       <item itemvalue="CMake Application.203_3" />
       <item itemvalue="CMake Application.206" />
       <item itemvalue="CMake Application.209_window" />
+      <item itemvalue="CMake Application.20" />
       <item itemvalue="CMake Application.225" />
       <item itemvalue="CMake Application.232" />
       <item itemvalue="CMake Application.707" />
@@ -210,6 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713173292980</updated>
       <workItem from="1713173294063" duration="9140000" />
+      <workItem from="1713248280212" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
